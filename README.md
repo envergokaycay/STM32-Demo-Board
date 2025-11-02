@@ -98,7 +98,5 @@ It includes the following schematic files:
 
 ---
 
-## 👨‍💻 Developer
-**Enver Gökay Çay**  
-📍 Works on STM32-based embedded systems and hardware design.  
-GitHub: [@envergokaycay](https://github.com/envergokaycay)
+## 👨‍💻 Contact
+If you have any questions or want to collaborate, feel free to reach out via GitHub or [LinkedIn](https://www.linkedin.com/in/envergokaycay/).
